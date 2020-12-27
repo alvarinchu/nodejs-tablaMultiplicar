@@ -33,4 +33,5 @@ let tablaMultiplicar = (base, repeticiones) => {
  module.exports = {
      tablaMultiplicar,
      listarTabla
+     
  }
